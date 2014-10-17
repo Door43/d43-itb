@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[itb:home|Door43 (itb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-itb|d43-itb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-itb/archive/master.zip|d43-itb.zip]]
+
+**Recent Changes**
+{{changes>ns = itb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/itb|Ethnologue data]]
+
